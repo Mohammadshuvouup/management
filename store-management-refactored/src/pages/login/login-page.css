@@ -1,0 +1,22 @@
+.validationForm {
+  padding-left: 2rem;
+}
+
+.session_list {
+  padding-top: 5rem;
+}
+
+label {
+  color: white;
+}
+
+input.error {
+  border-color: red;
+}
+
+.input-feedback {
+  color: rgb(235, 54, 54);
+  margin-top: 4px;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
